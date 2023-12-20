@@ -71,5 +71,13 @@ const menu = [
     img: './images/item-9.jpeg',
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
+  {
+    id: 10,
+    title: 'Dinner Delight',
+    category: 'dinner',
+    price: 22.99,
+    img: './images/item-10.jpeg',
+    desc: 'Savor the exquisite flavors of our dinner delight. A culinary masterpiece with a perfect blend of spices and freshness.',
+  }
 ];
 export default menu;
